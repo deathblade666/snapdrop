@@ -1,5 +1,7 @@
 # Snapdrop 
 
+This is a fork, I implemented [PR #556](https://github.com/RobinLinus/snapdrop/pull/556) that is the only difference between this fork and the original repo.
+
 [Snapdrop](https://snapdrop.net): local file sharing in your browser. Inspired by Apple's Airdrop.
 
 
