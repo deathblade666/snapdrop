@@ -5,7 +5,7 @@ First, [Install docker with docker-compose.](https://docs.docker.com/compose/ins
 
 Then, clone the repository:
 ```
-    git clone https://github.com/RobinLinus/snapdrop.git
+    git clone https://github.com/deathblade666/snapdrop.git
     cd snapdrop
     docker-compose up -d
 ```
